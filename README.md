@@ -1,4 +1,3 @@
-# EE30004-Embedded-Systems
+# Embedded System Codes
 
-#### Ideas for Capstone Project
-- [Car Speed Detector](http://www.circuitstoday.com/car-speed-detector-arduino)
+This repository contains codes for interfacing various sensors using an Arduino development board.
